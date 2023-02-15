@@ -1,0 +1,47 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
+  form label {
+    margin-bottom: 0.5rem;
+  }
+  
+  form input {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  form button {
+    padding: 0.5rem;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-top: 2rem;
+  }
+  
+  table th,
+  table td {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+  }
+  
+  table th {
+    background-color: #eee;
+  }
+  
